@@ -1,0 +1,6 @@
+submission/
+processor/*
+!processor/*.sv
+!processor/data_mem*
+!processor/program*
+!processor/instructions

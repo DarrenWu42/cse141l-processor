@@ -1,0 +1,10 @@
+Prerequisites:
+Python3
+
+How to Run:
+python assembler.py <filepath>
+where filepath is the path (relative or absolute) to an assembly code file.
+
+Output:
+Will create a folder in the same directory as the assembler and make a file with the same name as the given assembly code file, just without the file extension.
+Will display a message to terminal and exit if there are any problems with the translation.
